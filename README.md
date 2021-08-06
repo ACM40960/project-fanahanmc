@@ -17,7 +17,7 @@ If you haven't used Jupyter Notebooks before, then first download and install *A
 
 After completing the installation, open *Anaconda-Navigator* and select *Launch* on the *JupyterLab* pane (highligthed in the image below).
 
-<p align="center"><img width=80.0% src="https://github.com/ACM4096/project-fanahanmc/blob/main/Images/AnacondaNavImg.png"></p>
+<p align="center"><img width=80.0% src="https://github.com/ACM40960/project-fanahanmc/blob/main/Images/AnacondaNavImg.png"></p>
 
 Next, you can clone this GitHub repository onto your local machine. On GitHub, navigate to the repository (you should already be here if you're reading this README file...), select the green *Code* button, and then select the clipboard button beside the link to copy the repo link (highligthed in the image below).
 
