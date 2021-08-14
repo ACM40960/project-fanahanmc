@@ -7,7 +7,7 @@
 
 The main aim of this project is to model the dynamics of the English Premier League and simulate multiple seasons of fixtures based on this model, as well as simulating and evaluating the profitability of different forms of betting systems that could be employed by bookmakers during the Premier League season.
 
-<p align="center"><img width=60.0% src="https://github.com/ACM40960/project-fanahanmc/blob/main/Images/pointsprogression.gif"></p>
+<p align="center"><img width=50.0% src="https://github.com/ACM40960/project-fanahanmc/blob/main/Images/pointsprogression.gif"></p>
 
 The project has been completed within a Jupyter Notebook using the Python programming language. These notebooks allow users to seamlessly blend multiple blocks of code and text within a single easy to navigate document. You can run these notebooks using an appropriate IDE/UI, such as *Jupyter Notebook* or (preferably) *JupyterLab*.
 
